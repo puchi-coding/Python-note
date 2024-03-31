@@ -1229,14 +1229,14 @@ string.lower()
     '''
     ``` 
 
-## 字典(Dictionay)
+## 字典(Dictionary)
 - 語法:
 ```python=
 dict = {key : value}
-# 建立 dictionay
+# 建立 dictionary
 
 len(dict)
-# 在 dictionay 中有多少個項目
+# 在 dictionary 中有多少個項目
 
 dict[key]
 # 取值
@@ -1400,7 +1400,7 @@ Raina The Armored Titan
 Bertolt The Colossus Titan
 '''
 ```
-### List vs. Dictionay
+### List vs. Dictionary
 - list
     - 必須拿連續整數當 index
     - list[index] -> value
