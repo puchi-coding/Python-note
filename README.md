@@ -1681,4 +1681,5 @@ class (BaseClass_1, BaseClass_2, ...):
     
 ### 參考資料
 [資訊之芽 Python語法班 歷屆講義](https://github.com/tw-csie-sprout)
-[Python Documentation contents](https://docs.python.org/zh-tw/3/contents.html)# Python-note
+
+[Python Documentation contents](https://docs.python.org/zh-tw/3/contents.html)
